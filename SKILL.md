@@ -1,5 +1,5 @@
 ---
-name: telegram-claude
+name: telegram-bot-skill
 description: Build a Telegram bot that interfaces with Claude Code CLI, enabling headless Claude conversations with session continuity
 ---
 
